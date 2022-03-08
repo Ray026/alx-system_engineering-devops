@@ -1,0 +1,1 @@
+In this part, I learnt about the topics on expansions, Shell arithmetic, variables, shell initialization files and also the alias command. This project contains the commands in creating aliases, declaring variables and many others.
